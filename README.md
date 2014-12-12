@@ -2,8 +2,9 @@ AngularJSTemplate
 =================
 
 Basic structure of a project in angular
-
+=================
 app/
+=================
 ----- shared/   // acts as reusable components or partials of our site
 ---------- module/
 --------------- moduleDirective.js
